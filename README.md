@@ -18,5 +18,5 @@ $ = final da string.
 [0-9]{2} = corresponde a exatamente dois dígitos de 0 a 9.
 \s = corresponde a um único espaço em branco.
 [0-9]{4,5} = corresponde a quatro ou cinco dígitos de 0 a 9.
--  = corresponde ao caractere '-'.
+'-'  = corresponde ao caractere '-'.
 [0-9]{4} = corresponde a exatamente quatro dígitos de 0 a 9.
